@@ -1,1 +1,1 @@
-Shell basics project
+different commands for shell basics
